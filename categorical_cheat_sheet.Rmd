@@ -1,0 +1,4 @@
+#Categorical Data Visualization Cheat Sheet
+
+Neha Pusarla and Miranda Zhou
+Created a cheat sheet for Categorical Data Visualization. Goes over the characteristics of the data visualization tools that we used and tips for each one.
